@@ -5,3 +5,25 @@ body, img, h1, p, fieldset, legend, label, input, select, textarea, button {
     box-sizing: border-box;
     text-decoration: none;
 }
+
+/* style page */
+body{
+    background-color: #f8f8f8;
+    margin: 0 auto;
+    max-width: 700px;
+    padding: 20px;
+    font-family: "work sans", sans-serif;
+}
+
+header{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+}
+
+h1{
+    font-family: "fjalla one", sans-serif;
+}
